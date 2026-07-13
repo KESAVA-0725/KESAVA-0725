@@ -30,11 +30,11 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,bash,java,linux,windows,powershell,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,bash,java,powershell"/>
 
 </p>
 
