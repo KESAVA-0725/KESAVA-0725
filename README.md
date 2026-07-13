@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&color=00C2FF&lines=Cybersecurity+Graduate;SOC+Analyst;Threat+Detection;Malware+Analysis;Security+Research+Enthusiast" />
 </p>
 
+
 <img align="right" alt="Cyber Security" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ## 👨‍💻 About Me
