@@ -48,8 +48,6 @@
 
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Nessus-00ADEF?style=for-the-badge"/>
@@ -61,18 +59,6 @@
 <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge"/>
 
 </p>
-
----
-
-## 🌱 Currently Learning
-
-- Threat Hunting
-- Detection Engineering
-- Reverse Engineering
-- Windows Internals
-- YARA Rules
-- Sigma Rules
-- Threat Intelligence
 
 ---
 
