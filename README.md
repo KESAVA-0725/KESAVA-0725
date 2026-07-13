@@ -2,49 +2,36 @@
 <h3 align="center">Cybersecurity Graduate | SOC Analyst | Malware Analysis | Aspiring Security Researcher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Graduate;SOC+%7C+Threat+Detection;Malware+Analysis;Active+Directory+%7C+SIEM;Aspiring+Security+Researcher" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&color=00C2FF&lines=Cybersecurity+Graduate;SOC+Analyst;Threat+Detection;Malware+Analysis;Security+Research+Enthusiast" />
 </p>
 
 ---
 
-<img align="right" alt="Cyber Security" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xvbjJjdXd3MjlxNW9jNWNqdThqOHM5dGNvM3QyMjQ4dXdjdnhsMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif"/>
+<img align="right" alt="Cyber Security" width="350" src="YOUR_BANNER_OR_GIF_HERE"/>
 
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science (Cyber Security)
-- 🛡️ Interested in Threat Detection, SOC Operations & Malware Analysis
-- 🔬 Building practical cybersecurity labs
+- 🛡️ Passionate about Threat Detection, Malware Analysis & Security Operations
+- 🔬 Building hands-on cybersecurity labs and real-world projects
 - 🌱 Currently learning Reverse Engineering & Detection Engineering
 - 🎯 Goal: Become a Security Researcher
 
-<br>
-
-## 🚀 Featured Projects
-
-- 🏢 Enterprise Active Directory Home Lab
-- 📊 Splunk SOC Home Lab
-- 🦠 Malware Analysis Lab
-- ⚡ Endpoint Security Automation Lab
-- 🌐 SafeLine WAF with DVWA
-- 🤖 AI Powered Intrusion Detection System
-
 ---
 
-## 🛠️ Languages
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,bash,java,powershell"/>
-
-</p>
-
-### 🛡️ Security Tools
+## 🛡️ Security Tools
 
 <p>
 
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Wazuh-0052CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LimaCharlie-4B0082?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Tines-4A90E2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Shuffle-FF6B00?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
@@ -62,6 +49,64 @@
 
 ---
 
+## 💻 Languages & Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,powershell,bash,java,linux,windows,git,github,vscode"/>
+
+</p>
+
+---
+
+## 📚 Security Knowledge
+
+- SIEM Monitoring
+- Alert Investigation
+- Incident Response
+- Threat Detection
+- Malware Analysis
+- Vulnerability Assessment
+- Active Directory Administration
+- Network Security
+- Windows Administration
+- Log Analysis
+- MITRE ATT&CK
+- NIST Cybersecurity Framework
+- OWASP Top 10
+
+---
+
+## 🚀 Featured Projects
+
+- 🏢 Enterprise Active Directory Home Lab
+- 📊 Splunk SOC Home Lab
+- 🦠 Malware Analysis Lab
+- ⚡ Endpoint Security Automation Lab
+- 🌐 SafeLine WAF with DVWA
+- 🤖 AI-Powered Intrusion Detection System
+
+---
+
+## 📜 Certifications
+
+- 🛡️ Fortinet Certified Associate (FCA)
+- 🛡️ Fortinet Certified Fundamentals (FCF)
+- 🌐 Cisco Junior Cybersecurity Analyst
+- 🎯 Top 5% on TryHackMe
+
+---
+
+## 🌱 Currently Learning
+
+- Detection Engineering
+- Threat Hunting
+- Reverse Engineering
+- Windows Internals
+- Threat Intelligence
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -76,25 +121,16 @@
 
 ---
 
-## 🏆 Certifications
-
-- 🛡️ Fortinet Certified Associate (FCA)
-- 🛡️ Fortinet Certified Fundamentals (FCF)
-- 🌐 Cisco Junior Cybersecurity Analyst
-- 🎯 Top 5% on TryHackMe
-
----
-
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/kesava0725" target="_blank">
+<a href="https://www.linkedin.com/in/kesava0725">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -103,10 +139,10 @@
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=KESAVA-0725&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=KESAVA-0725&color=0E75B6&style=for-the-badge)
 
 </p>
 
 ---
 
-> **"Every alert tells a story. My goal is to understand it, investigate it, and build better defenses."**
+> **"Learning every day. Building secure systems. Researching tomorrow's threats."**
