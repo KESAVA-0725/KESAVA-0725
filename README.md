@@ -97,11 +97,4 @@
 
 </p>
 
----
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=KESAVA-0725&color=0E75B6&style=for-the-badge)
-
-</p>
 
