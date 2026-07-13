@@ -75,47 +75,12 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🏢 Enterprise Active Directory Home Lab
-- 📊 Splunk SOC Home Lab
-- 🦠 Malware Analysis Lab
-- ⚡ Endpoint Security Automation Lab
-- 🌐 SafeLine WAF with DVWA
-- 🤖 AI-Powered Intrusion Detection System
-
----
-
 ## 📜 Certifications
 
 - 🛡️ Fortinet Certified Associate (FCA)
 - 🛡️ Fortinet Certified Fundamentals (FCF)
 - 🌐 Cisco Junior Cybersecurity Analyst
 - 🎯 Top 5% on TryHackMe
-
----
-
-## 🌱 Currently Learning
-
-- Detection Engineering
-- Threat Hunting
-- Reverse Engineering
-- Windows Internals
-- Threat Intelligence
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KESAVA-0725&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KESAVA-0725&layout=compact&theme=github_dark&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=KESAVA-0725&theme=github-dark&hide_border=true"/>
-
-</p>
 
 ---
 
