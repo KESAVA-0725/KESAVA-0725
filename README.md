@@ -14,8 +14,6 @@
 - 🎓 B.Tech in Computer Science (Cyber Security)
 - 🛡️ Passionate about Threat Detection, Malware Analysis & Security Operations
 - 🔬 Building hands-on cybersecurity labs and real-world projects
-- 🌱 Currently learning Reverse Engineering & Detection Engineering
-- 🎯 Goal: Become a Security Researcher
 
 ---
 
@@ -53,7 +51,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,powershell,bash,java,linux,windows,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,powershell,bash,java"/>
 
 </p>
 
@@ -125,11 +123,11 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/kesava0725">
+<a href="https://www.linkedin.com/in/munagapati-kesava-mohana-krishna-b45730268/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:mkmkrishna0000@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
