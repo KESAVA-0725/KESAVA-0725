@@ -6,7 +6,7 @@
 </p>
 
 
-<img align="right" alt="Cyber Security" width="350" src="assets/banner.png"/>
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ## 👨‍💻 About Me
 
