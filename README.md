@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kesava</h1>
-<h3 align="center">Cybersecurity Graduate | SOC Analyst | Malware Analysis | Aspiring Security Researcher</h3>
+<h3 align="center">Cybersecurity Graduate | SOC Analyst | Malware Analysis | Blue Team Operations </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&color=00C2FF&lines=Cybersecurity+Graduate;SOC+Analyst;Threat+Detection;Malware+Analysis;Security+Research+Enthusiast" />
