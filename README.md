@@ -6,7 +6,7 @@
 </p>
 
 
-<img align="right" alt="Cyber Security" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" alt="Cyber Security" width="350" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
 ## 👨‍💻 About Me
 
@@ -105,9 +105,3 @@
 
 </p>
 
----
-
-> **"Learning every day. Building secure systems. Researching tomorrow's threats."**
-
-
-modify as u given in the above generated imag e, i want like that...
